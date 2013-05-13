@@ -6,8 +6,8 @@ License:	GPLv2+
 Group:		Sound
 Url:		http://www.sarine.nl/
 Source0:	http://download.sarine.nl/download/gmpc-0.15.5/%{name}-%{version}.tar.bz2
-BuildRequires:	libmpd-devel
-BuildRequires:	libxml2-devel
+BuildRequires:	pkgconfig(libmpd)
+BuildRequires:	pkgconfig(libxml-2.0)
 BuildRequires:	libglade2.0-devel
 BuildRequires:	gmpc-devel
 Requires:	gmpc
