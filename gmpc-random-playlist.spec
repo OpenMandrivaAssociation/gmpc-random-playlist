@@ -1,7 +1,7 @@
 Summary:	A random playlist plugin for gmpc
 Name:		gmpc-random-playlist
 Version:	0.15.5.0
-Release:	6
+Release:	7
 License:	GPLv2+
 Group:		Sound
 Url:		http://www.sarine.nl/
