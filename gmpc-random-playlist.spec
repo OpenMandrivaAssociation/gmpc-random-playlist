@@ -4,7 +4,7 @@ Version:	0.15.5.0
 Release:	7
 License:	GPLv2+
 Group:		Sound
-Url:		http://www.sarine.nl/
+Url:		https://www.sarine.nl/
 Source0:	http://download.sarine.nl/download/gmpc-0.15.5/%{name}-%{version}.tar.bz2
 BuildRequires:	pkgconfig(libmpd)
 BuildRequires:	pkgconfig(libxml-2.0)
